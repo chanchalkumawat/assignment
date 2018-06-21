@@ -44,6 +44,8 @@ Sample json data will be :
 	"city": "banglore"
 }
 
+Note: Refer to screenshot folder for screenshot of api's output
+
 
 
 	
